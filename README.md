@@ -89,4 +89,16 @@
 20. Late return percentage per category
 -- Helps in policy enforcement by category.
 
+## Conclusion:
+Each of the 20 SQL queries in this project is designed not just to answer a technical question, but to simulate real-world analytical needs of a library system.
+From identifying popular authors and categories, to tracking borrowing trends, overdue fines, and member engagement, these queries demonstrate how raw data can be transformed into actionable insights.
+
+-- This project highlights my ability to:
+
+Understand business requirements and translate them into SQL solutions.
+
+Apply both basic (joins, filters, grouping) and advanced (CTEs, window functions, ranking) SQL techniques.
+
+Deliver insights that support decision making and operations analysis.
+
 
